@@ -1,0 +1,2 @@
+# notez
+School notes
